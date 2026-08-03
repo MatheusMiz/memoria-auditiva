@@ -76,7 +76,7 @@ Para que o script funcione corretamente, o diretório do projeto deve seguir a e
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/memoria-auditiva.git
+git clone https://github.com/MatheusMiz/memoria-auditiva.git
 cd memoria-auditiva
 
 ```
